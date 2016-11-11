@@ -82,6 +82,25 @@ Organizers
 Scientific committee
 ===========================
 
+- [Peter Binev](http://people.math.sc.edu/binev/)
+- [Annalisa Buffa](http://www.imati.cnr.it/joomla/index.php/people?layout=edit&id=130)
+- [Ron Devore](http://www.math.tamu.edu/~rdevore/)
+- [Oleg Davydov](http://www.staff.uni-giessen.de/~gc1266/)
+- [Jalal Fadili](https://fadili.users.greyc.fr/)
+- [Remi Gribonval](https://people.irisa.fr/Remi.Gribonval/)
+- [Gitta Kutyniok](http://www.tu-berlin.de/?108957)
+- [Dany Leviatan](http://www.math.tau.ac.il/~leviatan/)
+- [David Levin](http://pages.uoregon.edu/dlevin/)
+- [Carla Manni](http://www.mat.uniroma2.it/~manni/)
+- [Edouard Oudet](http://www-ljk.imag.fr/membres/Edouard.Oudet/)
+- [Konrad Polthier](http://www.polthier.info/)
+- [Helmut Pottmann](http://www.dmg.tuwien.ac.at/pottmann/)
+- [Ulrich Reif](http://www.mathematik.tu-darmstadt.de/~reif/)
+- [Tomas Sauer](http://www.fim.uni-passau.de/digitale-bildverarbeitung/)
+- [Grady Wright](http://math.boisestate.edu/~wright/)
+- [Michael Floater](http://www.mn.uio.no/math/english/people/aca/michaelf/index.html)
+
+
 Supported by
 ===========================
 
