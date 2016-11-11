@@ -6,7 +6,7 @@ email: gabriel.peyre@ens.fr
 description: Web site of the Curves and Surfaces conferences
 baseurl: ""
 url: "http://curves-and-surfaces.github.io/"
-github_username:  icurves-and-surfaces
+github_username:  curves-and-surfaces
 
 # Build settings
 markdown: kramdown

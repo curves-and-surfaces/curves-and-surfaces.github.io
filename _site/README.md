@@ -1,2 +1,2 @@
-# imaging-in-paris.github.io
-Web site of the Imaging in Paris seminar
+# curves-and-surfaces.github.io
+Web site of the [Curves and Surfaces conferences](https://curves-and-surfaces.github.io/).

@@ -2,28 +2,13 @@
 layout: page
 title: "Curves and Surfaces 2018"
 description: "in Arcachon"
-header-img: "img/arcachon1.png"
+header-img: "img/dune5.jpg"
 ---
 
-Welcome to 8th International Conference on Curves and Surfaces, organised by SMAI-SIGMA.
+Welcome to 8th International Conference on Curves and Surfaces, organised by [SMAI-SIGMA](http://smai.emath.fr/spip.php?article406).
 
-The conference will take place at ... from ... to ...
+The conference will take place at June 28 to July 4, 2018 in [Arcachon](https://en.wikipedia.org/wiki/Arcachon), France.
 
-
-Scientific Committee
-============================
-
-- [Florent Krzakala](http://krzakala.org/) (ENS and UPMC): director ;
-- [Stéphane Mallat](https://www.di.ens.fr/~mallat/) (ENS) ;
-- [Pascal Mamassian](http://mamassian.free.fr/free/Home.html) (CNRS and ENS) ;
-- [Gabriel Peyré](http://gpeyre.github.io/) (CNRS and ENS).
-
-Supported by
-===========================
-
-The conference is organised by SMAI-SIGMA, an activity group of Société de Mathématiques Appliquées et Industrielles (SMAI) in collaboration with the following institutions:
-
-...
 
 Conference topics
 ===========================
@@ -49,21 +34,60 @@ as well as related applications in manufacturing, mechanics, solid modelling, te
 Important dates
 ===========================
 
+TBA
 
 Invited speakers
 ===========================
+
+- [Alexander Bobenko](http://page.math.tu-berlin.de/~bobenko/)
+- [Emmanuel Candes](http://statweb.stanford.edu/~candes/)
+- [Maria Charina](http://homepage.univie.ac.at/maria.charina/)
+- [Elaine Cohen](https://www.cs.utah.edu/~cohen/)
+- [Philipp Grohs](http://mat.univie.ac.at/~grohs/)
+- [Frances Kuo](http://web.maths.unsw.edu.au/~fkuo/)
+- [Mauro Maggioni](http://www.math.jhu.edu/~mauro/)
+- [Jorg Peters](https://www.cise.ufl.edu/~jorg/)
+- [Amit Singer](https://web.math.princeton.edu/~amits/)
+- [Max Wardetzky](http://num.math.uni-goettingen.de/~wardetzky/)
 
 
 Invited mini-symposium organizers
 ===========================
 
+- [Christian Gout](http://lmi.insa-rouen.fr/membres/9-membres/professeurs/15-gout-christian.html)
+- [Thomas Hangelbroek](http://www.math.hawaii.edu/~hangelbr/)
+- [Stefan Kunis](http://www.analysis.uni-osnabrueck.de/kunis/)
+- [Dany Leviatan](http://www.math.tau.ac.il/~leviatan/)
+- [Georg Muntingh](https://sites.google.com/site/georgmuntingh/)
+- [Steve Oudot](http://geometrica.saclay.inria.fr/team/Steve.Oudot/)
+- [Martin Rumpf](http://www.hcm.uni-bonn.de/de/people/profile/martin-rumpf/)
+- [Giancarlo Sangalli](http://www-dimat.unipv.it/sangalli/)
+- [Carola-Bibiane Schoenlieb](http://www.damtp.cam.ac.uk/user/cbs31/Home.html)
+- [Vladimir Temlyakov](http://imi.cas.sc.edu/people/vladimir-temlyakov/)
+
 
 Organizers
 ===========================
 
+- [Jean-Francois Aujol](https://www.math.u-bordeaux.fr/~jaujol/)
+- [Jean-Daniel Boissonat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/)
+- [Albert Cohen](https://www.ljll.math.upmc.fr/cohen/)
+- [Tom Lyche](http://www.mn.uio.no/math/english/people/aca/tom/)
+- [Marie-Laurence Mazure](http://ljk.imag.fr/membres/Marie-Laurence.Mazure/)
+- [Quentin Mérigot](http://quentin.mrgt.fr/)
+- [Gabriel Peyré](http://www.gpeyre.com/)
+- [Larry Schumaker](http://www.math.vanderbilt.edu/~schumake/)
+
 
 Scientific committee
 ===========================
+
+Supported by
+===========================
+
+The conference is organized by [SMAI-SIGMA](http://smai.emath.fr/spip.php?article406), an activity group of [Société de Mathématiques Appliquées et Industrielles](http://smai.emath.fr/) (SMAI) in collaboration with the following institutions:
+
+...
 
 
 Proceedings
