@@ -1,0 +1,20 @@
+# Usign the Clean Blog theme
+
+title: Curves and Surfaces
+author: curves-and-surfaces
+email: gabriel.peyre@ens.fr
+description: Web site of the Curves and Surfaces conferences
+baseurl: ""
+url: "http://curves-and-surfaces.github.io/"
+github_username:  icurves-and-surfaces
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
+
+name: Curves and Surfaces
+gems:
+  - jekyll-feed
+  - jekyll-paginate
