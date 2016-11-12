@@ -34,66 +34,66 @@ as well as related applications in manufacturing, mechanics, solid modelling, te
 Invited speakers
 ===========================
 
-- [Alexander Bobenko](http://page.math.tu-berlin.de/~bobenko/)
-- [Emmanuel Candes](http://statweb.stanford.edu/~candes/)
-- [Maria Charina](http://homepage.univie.ac.at/maria.charina/)
-- [Elaine Cohen](https://www.cs.utah.edu/~cohen/)
-- [Philipp Grohs](http://mat.univie.ac.at/~grohs/)
-- [Frances Kuo](http://web.maths.unsw.edu.au/~fkuo/)
-- [Mauro Maggioni](http://www.math.jhu.edu/~mauro/)
-- [Jorg Peters](https://www.cise.ufl.edu/~jorg/)
-- [Amit Singer](https://web.math.princeton.edu/~amits/)
-- [Max Wardetzky](http://num.math.uni-goettingen.de/~wardetzky/)
+- [Alexander Bobenko (Berlin)](http://page.math.tu-berlin.de/~bobenko/)
+- [Emmanuel Candes (Stanford)](http://statweb.stanford.edu/~candes/)
+- [Maria Charina (Wien)](http://homepage.univie.ac.at/maria.charina/)
+- [Elaine Cohen (Utah)](https://www.cs.utah.edu/~cohen/)
+- [Philipp Grohs (Wien)](http://mat.univie.ac.at/~grohs/)
+- [Frances Kuo (Sydney)](http://web.maths.unsw.edu.au/~fkuo/)
+- [Mauro Maggioni (Johns Hopkins)](http://www.math.jhu.edu/~mauro/)
+- [Jorg Peters (Florida)](https://www.cise.ufl.edu/~jorg/)
+- [Amit Singer (Princeton)](https://web.math.princeton.edu/~amits/)
+- [Max Wardetzky (Goettingen)](http://num.math.uni-goettingen.de/~wardetzky/)
 
 
 Invited mini-symposium organizers
 ===========================
 
-- [Christian Gout](http://lmi.insa-rouen.fr/membres/9-membres/professeurs/15-gout-christian.html)
-- [Thomas Hangelbroek](http://www.math.hawaii.edu/~hangelbr/)
-- [Stefan Kunis](http://www.analysis.uni-osnabrueck.de/kunis/)
-- [Dany Leviatan](http://www.math.tau.ac.il/~leviatan/)
-- [Georg Muntingh](https://sites.google.com/site/georgmuntingh/)
-- [Steve Oudot](http://geometrica.saclay.inria.fr/team/Steve.Oudot/)
-- [Martin Rumpf](http://www.hcm.uni-bonn.de/de/people/profile/martin-rumpf/)
-- [Giancarlo Sangalli](http://www-dimat.unipv.it/sangalli/)
-- [Carola-Bibiane Schoenlieb](http://www.damtp.cam.ac.uk/user/cbs31/Home.html)
-- [Vladimir Temlyakov](http://imi.cas.sc.edu/people/vladimir-temlyakov/)
+- [Christian Gout (Rouen)](http://lmi.insa-rouen.fr/membres/9-membres/professeurs/15-gout-christian.html)
+- [Thomas Hangelbroek (Hawaii)](http://www.math.hawaii.edu/~hangelbr/)
+- [Stefan Kunis (Osnabrueck)](http://www.analysis.uni-osnabrueck.de/kunis/)
+- [Dany Leviatan (Tel Aviv)](http://www.math.tau.ac.il/~leviatan/)
+- [Georg Muntingh (Oslo)](https://sites.google.com/site/georgmuntingh/)
+- [Steve Oudot (INRIA Saclay)](http://geometrica.saclay.inria.fr/team/Steve.Oudot/)
+- [Martin Rumpf (Bonn)](http://www.hcm.uni-bonn.de/de/people/profile/martin-rumpf/)
+- [Giancarlo Sangalli (Pavia)](http://www-dimat.unipv.it/sangalli/)
+- [Carola-Bibiane Schoenlieb (Cambridge)](http://www.damtp.cam.ac.uk/user/cbs31/Home.html)
+- [Vladimir Temlyakov (South Carolina)](http://imi.cas.sc.edu/people/vladimir-temlyakov/)
 
 
 Organizers
 ===========================
 
-- [Jean-Francois Aujol](https://www.math.u-bordeaux.fr/~jaujol/)
-- [Jean-Daniel Boissonat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/)
-- [Albert Cohen](https://www.ljll.math.upmc.fr/cohen/)
-- [Tom Lyche](http://www.mn.uio.no/math/english/people/aca/tom/)
-- [Marie-Laurence Mazure](http://ljk.imag.fr/membres/Marie-Laurence.Mazure/)
-- [Quentin Mérigot](http://quentin.mrgt.fr/)
-- [Gabriel Peyré](http://www.gpeyre.com/)
-- [Larry Schumaker](http://www.math.vanderbilt.edu/~schumake/)
+- [Jean-Francois Aujol (Bordeaux)](https://www.math.u-bordeaux.fr/~jaujol/)
+- [Jean-Daniel Boissonat (INRIA Sophia)](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/)
+- [Albert Cohen (Paris 6)](https://www.ljll.math.upmc.fr/cohen/)
+- [Tom Lyche (Oslo)](http://www.mn.uio.no/math/english/people/aca/tom/)
+- [Marie-Laurence Mazure (Grenoble)](http://ljk.imag.fr/membres/Marie-Laurence.Mazure/)
+- [Quentin Mérigot (Orsay)](http://quentin.mrgt.fr/)
+- [Gabriel Peyré (CNRS and ENS)](http://www.gpeyre.com/)
+- [Larry Schumaker (Vanderbilt)](http://www.math.vanderbilt.edu/~schumake/)
 
 
 Scientific committee
 ===========================
 
-- [Peter Binev](http://people.math.sc.edu/binev/)
-- [Annalisa Buffa](http://www.imati.cnr.it/joomla/index.php/people?layout=edit&id=130)
-- [Ron Devore](http://www.math.tamu.edu/~rdevore/)
-- [Oleg Davydov](http://www.staff.uni-giessen.de/~gc1266/)
-- [Jalal Fadili](https://fadili.users.greyc.fr/)
-- [Remi Gribonval](https://people.irisa.fr/Remi.Gribonval/)
-- [Gitta Kutyniok](http://www.tu-berlin.de/?108957)
-- [Dany Leviatan](http://www.math.tau.ac.il/~leviatan/)
-- [David Levin](http://pages.uoregon.edu/dlevin/)
-- [Carla Manni](http://www.mat.uniroma2.it/~manni/)
-- [Edouard Oudet](http://www-ljk.imag.fr/membres/Edouard.Oudet/)
-- [Konrad Polthier](http://www.polthier.info/)
-- [Helmut Pottmann](http://www.dmg.tuwien.ac.at/pottmann/)
-- [Ulrich Reif](http://www.mathematik.tu-darmstadt.de/~reif/)
-- [Tomas Sauer](http://www.fim.uni-passau.de/digitale-bildverarbeitung/)
-- [Grady Wright](http://math.boisestate.edu/~wright/)
-- [Michael Floater](http://www.mn.uio.no/math/english/people/aca/michaelf/index.html)
+- [Peter Binev (South Carolina )](http://people.math.sc.edu/binev/)
+- [Annalisa Buffa (Pavia)](http://www.imati.cnr.it/joomla/index.php/people?layout=edit&id=130)
+- [Ron Devore (Texas A&U)](http://www.math.tamu.edu/~rdevore/)
+- [Oleg Davydov (Giessen)](http://www.staff.uni-giessen.de/~gc1266/)
+- [Jalal Fadili (Caen)](https://fadili.users.greyc.fr/)
+- [Remi Gribonval (INRIA Rennes)](https://people.irisa.fr/Remi.Gribonval/)
+- [Gitta Kutyniok (Berlin)](http://www.tu-berlin.de/?108957)
+- [Dany Leviatan (Tel Aviv)](http://www.math.tau.ac.il/~leviatan/)
+- [David Levin (Oregon)](http://pages.uoregon.edu/dlevin/)
+- [Carla Manni (Roma)](http://www.mat.uniroma2.it/~manni/)
+- [Edouard Oudet (Grenoble)](http://www-ljk.imag.fr/membres/Edouard.Oudet/)
+- [Konrad Polthier (Berlin)](http://www.polthier.info/)
+- [Helmut Pottmann (Wien)](http://www.dmg.tuwien.ac.at/pottmann/)
+- [Ulrich Reif (Darmstadt)](http://www.mathematik.tu-darmstadt.de/~reif/)
+- [Tomas Sauer (Passau)](http://www.fim.uni-passau.de/digitale-bildverarbeitung/)
+- [Grady Wright (Boise)](http://math.boisestate.edu/~wright/)
+- [Michael Floater (Oslo)](http://www.mn.uio.no/math/english/people/aca/michaelf/index.html)
 
 
 Supported by
@@ -101,17 +101,17 @@ Supported by
 
 The conference is organized by [SMAI-SIGMA](http://smai.emath.fr/spip.php?article406), an activity group of [Société de Mathématiques Appliquées et Industrielles](http://smai.emath.fr/) (SMAI) in collaboration with the following institutions:
 
-...
+TBA
 
 
 Previous editions
 ===========================
 
-- [Chamonix 1990](1990/)
-- [Chamonix 1993](1993/)
-- [Chamonix 1996](1996/)
-- [St Malo 1999](1999/)
-- [St Malo 2002](2002/)
-- [Avignon 2006](2006/)
-- [Avignon 2010](2010/)
 - [Paris 2014](2014/)
+- [Avignon 2010](2010/)
+- [Avignon 2006](2006/)
+- [St Malo 2002](2002/)
+- [St Malo 1999](1999/)
+- [Chamonix 1996](1996/)
+- [Chamonix 1993](1993/)
+- [Chamonix 1990](1990/)
