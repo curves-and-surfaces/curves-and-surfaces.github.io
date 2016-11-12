@@ -1,2 +1,7 @@
 # curves-and-surfaces.github.io
 Web site of the [Curves and Surfaces conferences](https://curves-and-surfaces.github.io/).
+
+Photography credits:
+- [Paris](https://www.flickr.com/photos/parksjd/24175721610/in/photolist-CQjTLo-Mg1Gaj-bACaKz-wiDtcU-hHd9UD-7wPUCy-MBCgma-5UqDVn-KE29C8-A59vTs-MHxZrF-dSojRg-bxueNC-qRGmUn-mh4QbF-GwzBYF-jPyXGM-qRHF7S-u9PieX-8isS6U-DZN4qT-ppU1LJ-qKnowA-qKzKbg-gN27Gp-xeeMUc-8FyF84-d1D3do-thDbtR-cKPzRf-nhUUmz-qPNsKs-MxSH1c-HK6YiX-EaYgAv-HgdNhE-ntbHFJ-dXqeMG-aJrQjc-wVHWQv-CRzuac-HeTa44-H5F3ky-pU38r7-n1RbLN-ynfzoM-93vQQt-nnwFe4-A62ehw-nZPiXU)
+- [St Malo](https://www.flickr.com/photos/castellitoscani/9428359576/in/photolist-fn9NPJ-BkciaN-gquJg-gzSjBA-gzSXFg-6xLVaB-gzSLsz-NPEUVV-wxnBA9-a97WVF-x6cNox-7gpWVb-a3J9Q9-BePQTv-duWeq3-8s28wa-AWAeZ8-5gsxjA-fqMJma-orVa5a-7NhzWK-7gpWtQ-f4Frcx-AEffVu-7csVTF-93T1J4-na373W-BzTUwW-a7hTJT-bdkmM6-NURHpM-egbM6W-KMCNr1-rkQ6iG-AC9CCK-dwe2ub-nBSbXV-9qvd77-BnsWar-9uqqGX-7SYwLE-7TaWWe-AgVruT-nYpJsS-Bv7ab4-aQ6Ao6-7RDtDE-7cQF5c-9yRZMi-gzSgBC)
+- [St Malo](https://www.flickr.com/photos/sebastiagiralt/28739763570/in/photolist-bdkmM6-NURHpM-egbM6W-KMCNr1-rkQ6iG-AC9CCK-dwe2ub-nBSbXV-9qvd77-BnsWar-9uqqGX-7SYwLE-7TaWWe-AgVruT-nYpJsS-Bv7ab4-aQ6Ao6-7RDtDE-7cQF5c-9yRZMi-gzSgBC-7cwLYY-7SUEZ6-Gve1it-qV5jgv-p6atuE-7SXnqj-rhMv4q-5j2H5H-7TaYqF-vYkAqk-76GLjs-6vk2sC-6M4Cbj-6yYwB5-93T1Ja-a9b9H1-GChjVm-AWfHAk-n2TMhR-7Tbcfn-9nnzwn-6APfDY-mQirti-6ALoU6-t7iNq-oBxwhe-fAZu35-AzQLpy-a9b61w)

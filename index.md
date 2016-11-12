@@ -102,3 +102,16 @@ Supported by
 The conference is organized by [SMAI-SIGMA](http://smai.emath.fr/spip.php?article406), an activity group of [Société de Mathématiques Appliquées et Industrielles](http://smai.emath.fr/) (SMAI) in collaboration with the following institutions:
 
 ...
+
+
+Previous editions
+===========================
+
+- [Chamonix 1990](1990/)
+- [Chamonix 1993](1993/)
+- [Chamonix 1996](1996/)
+- [St Malo 1999](1999/)
+- [St Malo 2002](2002/)
+- [Avignon 2006](2006/)
+- [Avignon 2010](2010/)
+- [Paris 2014](2014/)
