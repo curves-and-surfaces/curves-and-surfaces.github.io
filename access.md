@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Curves and Surfaces 2018"
-description: "Participants"
-header-img: "img/dune1.jpg"
+description: "Access"
+header-img: "img/dune4.jpg"
 ---
 
 TBA.

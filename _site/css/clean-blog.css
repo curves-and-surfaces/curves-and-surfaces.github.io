@@ -94,16 +94,19 @@ hr.small {
     transform: translate3d(0, 0, 0);
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
+      background-color: rgba(200, 200, 200, 0.4); /* ADDED GP */
+      text-shadow: 1px 1px 1px black;
   }
   .navbar-custom.is-fixed {
     /* when the user scrolls down, we hide the header right above the viewport */
     position: fixed;
-    top: -61px;
-    background-color: rgba(255, 255, 255, 0.9);
-    border-bottom: 1px solid #f2f2f2;
-    -webkit-transition: -webkit-transform 0.3s;
+  /*  top: -61px; GP: avoid hiding */
+    background-color: rgba(200, 200, 200, 0.4); /* ADDED GP */
+    text-shadow: 1px 1px 1px white;
+    /* border-bottom: 1px solid #f2f2f2; */
+    /* -webkit-transition: -webkit-transform 0.3s;
     -moz-transition: -moz-transform 0.3s;
-    transition: transform 0.3s;
+    transition: transform 0.3s; */
   }
   .navbar-custom.is-fixed .navbar-brand {
     color: #404040;
@@ -121,11 +124,11 @@ hr.small {
   }
   .navbar-custom.is-visible {
     /* if the user changes the scrolling direction, we show the header */
-    -webkit-transform: translate3d(0, 100%, 0);
+    /* -webkit-transform: translate3d(0, 100%, 0);
     -moz-transform: translate3d(0, 100%, 0);
     -ms-transform: translate3d(0, 100%, 0);
     -o-transform: translate3d(0, 100%, 0);
-    transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0); */
   }
 }
 .intro-header {
@@ -154,6 +157,7 @@ hr.small {
 .intro-header .site-heading,
 .intro-header .page-heading {
   text-align: center;
+  text-shadow: 1px 1px 1px black;
 }
 .intro-header .site-heading h1,
 .intro-header .page-heading h1 {

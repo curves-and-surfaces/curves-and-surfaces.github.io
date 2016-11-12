@@ -31,11 +31,6 @@ with subtopics (in alphabetical order):
 as well as related applications in manufacturing, mechanics, solid modelling, terrain modelling, oceanography, geosciences, life sciences ...
 
 
-Important dates
-===========================
-
-TBA
-
 Invited speakers
 ===========================
 
@@ -107,16 +102,3 @@ Supported by
 The conference is organized by [SMAI-SIGMA](http://smai.emath.fr/spip.php?article406), an activity group of [Société de Mathématiques Appliquées et Industrielles](http://smai.emath.fr/) (SMAI) in collaboration with the following institutions:
 
 ...
-
-
-Proceedings
-===========================
-
-
-
-Registration fees
-===========================
-
-
-Access
-===========================
