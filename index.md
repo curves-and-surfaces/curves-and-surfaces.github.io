@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Curves and Surfaces 2018"
-description: "in Arcachon"
+description: "Arcachon, France, June 28 - July 4"
 header-img: "img/dune5.jpg"
 ---
 
